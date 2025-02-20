@@ -23,7 +23,7 @@ Download MinGW from https://www.mingw-w64.org/
 ### **Installation**
 Clone the repository:
 ```sh
-git clone https://github.com/YOUR_USERNAME/tic-tac-toe.git
+git clone https://github.com/huyhoang171106/tic-tac-toe.git
 cd tic-tac-toe/src
 ```
 
@@ -65,4 +65,4 @@ This project is licensed under the MIT License.
 Pull requests are welcome. Open an issue for suggestions!
 
 ## **Author**
-- [YOUR NAME](https://github.com/YOUR_USERNAME)
+- [huyhoang171106](https://github.com/huyhoang171106)
